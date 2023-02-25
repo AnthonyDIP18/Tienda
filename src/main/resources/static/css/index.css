@@ -25,3 +25,33 @@
     width:200px;
     height:200px;
 }
+.fixed{
+    position:fixed;
+    border:3px solid green;
+    top: 150px;
+    left: 50px;
+    width:100px;
+    height:100px;
+}
+
+
+.absolute{
+    position:absolute;
+    border:3px solid green;
+    top: 80px;
+    left: 50px;
+    width:100px;
+    height:100px;
+}
+
+.cuadrado{
+    height: 200px;
+    width: 200px;
+    background: #aaa;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+a{
+    display:block;
+}
