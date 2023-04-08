@@ -119,6 +119,8 @@ public class Persona implements Serializable{
     public void setPais(Pais pais) {
         this.pais = pais;
     }
+
+    
     
     
 }
